@@ -1,8 +1,8 @@
 # Instagram Followers and Following Fetch Script
-_Get following users who don't follow you_
-_Try not to use this on your personal account may get banned as instabot documentation says so_
-_Don't use this script more than 2 times at once with your personal account_
-_The script uses Instagram's Mobile API_
+_Get following users who don't follow you._
+_Try not to use this on your personal account may get banned as instabot documentation says so._
+_Don't use this script more than 2 times at once with your personal account._
+_The script uses Instagram's Mobile API._
 
 ### Instructions
 - Clone this repo / download this repo
